@@ -1,0 +1,25 @@
+#cab {
+    text-align: center;
+    background-color: #e712129c;
+    color:  #1a0000;
+}
+
+.formulario {
+    text-align: center;
+    margin: 0% 40% 0% 40%;
+    color:white;
+    list-style-type: none
+}
+
+#list{
+    list-style-type: none;
+    color:white   
+}
+
+body {background-color:black;}
+
+
+.detalleserie{
+    color:white;
+    list-style-type: none
+}
